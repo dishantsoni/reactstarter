@@ -8,7 +8,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:dishantsoni/reactstarter.git
+	> git clone https://github.com/dishantsoni/reactstarter.git
 	> cd reactstarter
 	> npm install
 	> npm start
